@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/scitrek_logo.png" alt="SciTrek logo" width="480">
+<img src="../assets/scitrek_logo.png" alt="SciTrek logo" width="480">
 
 **Bringing authentic science inquiry into K-12 classrooms — and the software that keeps it running.**
 
